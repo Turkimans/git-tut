@@ -1,0 +1,2 @@
+"C:\Users\Turki\Downloads\git-tut\turki.txt"
+"hello"
